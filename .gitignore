@@ -1,0 +1,6 @@
+imports_in_shell.txt
+db.sqlite3
+.env
+__pycache__/
+Pipfile.lock
+Resources
